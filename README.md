@@ -123,8 +123,13 @@ This project is part of the CS-340 course at Southern New Hampshire University. 
 4. The results of the query will be displayed on the dashboard.
 
 ## Screenshot
+![Dashboard showing user login and MongoDB query results - 1](CS 340 Module 5 (1).png)
+![Dashboard showing user login and MongoDB query results - 2](CS 340 Module 5 (2).png)
+![Dashboard showing user login and MongoDB query results - 3](CS 340 Module 5 (3).png)
+![Dashboard showing user login and MongoDB query results - 4](CS 340 Module 5 (4).png)
+![Dashboard showing user login and MongoDB query results](CS 340 Module 5.png)
 
-
+Include screenshots of your running dashboard here. The screenshots should show the username/password input fields, the submit button, and the query result. Ensure your unique identifier (name) is visible.
 
 ## Important Notes
 
